@@ -5,7 +5,7 @@ Aspiring Full Stack Developer
 --------------------------------------------------
 
 * 🌍  I'm based in Indore, India
-* ✉️  You can contact me at [paragagrawal477@gmail.com](mailto:paragagrawal477@gmail.com)
+* ✉️  You can contact me at [shreyatiwari2134@gmail.com](mailto:shreyatiwari2134@gmail.com)
 * ⚡  In my leisure time I generally listen to songs...
 
 ## Skills
