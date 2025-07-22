@@ -55,9 +55,9 @@ Hey there! I’m Shreya 👩‍💻 — a full stack developer who loves turning
 
 ## ✨ Fun Facts
 
-🍵 Fueled by chai and big ideas — best code happens after the first sip!
+- 🍵 Fueled by chai and big ideas — best code happens after the first sip!
 
-🧠 Obsessed with elegant logic, aesthetic UI, and docs so clear they read like poetry 📄✨
+- 🧠 Obsessed with elegant logic, aesthetic UI, and docs so clear they read like poetry 📄✨
 
 
 # 📊 GitHub Stats:
