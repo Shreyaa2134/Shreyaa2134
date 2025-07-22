@@ -21,6 +21,24 @@ Hey there! I’m Shreya 👩‍💻 — a full stack developer who loves turning
 
 
 ## Skills
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Frameworks
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?&logo=Express)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=TailwindCSS)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+
+
 ## Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
