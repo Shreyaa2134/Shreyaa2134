@@ -1,4 +1,4 @@
-# 👩‍💻 Shrishti Arya
+# 👩‍💻 Shreya Tiwari
 
 **Full Stack Developer | Cloud Enthusiast | Tech Explorer** 
 
@@ -49,7 +49,9 @@ Hey there! I’m Shreya 👩‍💻 — a full stack developer who loves turning
 
 
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+📩 **Email:**  shreyatiwari2134@gmail.com  
 
 
 ## Socials
@@ -59,6 +61,6 @@ Hey there! I’m Shreya 👩‍💻 — a full stack developer who loves turning
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/ShreyaTiwa78612)
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 ---
